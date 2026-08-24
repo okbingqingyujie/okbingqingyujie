@@ -1,5 +1,6 @@
 ## Hi I'm Wendy 👋
-
+Al Product Manager • Independent Developer
+Building zero-friction, ready-to-use capability-layer tools & open-source Skills for Al Agents
 
 ## About me
 - 🔭 Al Product Manager & Independent Developer, focused on AI Agent capability-layer tooling
