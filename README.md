@@ -8,3 +8,5 @@ Building zero-friction, ready-to-use capability-layer tools & open-source Skills
 - ✨ I believe in "zero config": great tools install with one command, and the agent just knows how to use them
 - 💬 Exploring: Al Agent tooling• knowledge content automation • open-source Skills
 - 🍃Open to feedback, feature requests, and contributions
+
+https://ai-visual-portfolio-zyx.pimsdofearmoli.chatgpt.site/portfolio
