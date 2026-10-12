@@ -9,4 +9,4 @@ Building zero-friction, ready-to-use capability-layer tools & open-source Skills
 - 💬 Exploring: Al Agent tooling• knowledge content automation • open-source Skills
 - 🍃Open to feedback, feature requests, and contributions
 
-[[https://ai-visual-portfolio-zyx.pimsdofearmoli.chatgpt.site/portfolio](https://weijie-portfolio.pages.dev/)](https://weijie-portfolio.pages.dev/#home)
+https://weijie.hi.cn
